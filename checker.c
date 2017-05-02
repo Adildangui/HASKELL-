@@ -8,7 +8,7 @@ int main()
 	{
 		int n;
 		fscanf (fp,"%d",&n);
-		if (n==45)
+		if (n==46)
 		count++;
 	} 
 	printf ("count:%d",count);
